@@ -1,3 +1,6 @@
+##To compile the project
+In /src/config/fbConfig.js, you need to fill the var config with your credentials in your google firebase account.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
